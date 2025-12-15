@@ -1,4 +1,4 @@
-# 🚀 Kutloano — The Developer in Motion
+# 🚀  Kutloano — The Developer in Motion
 
 Most people step into tech. I stumbled into it, half curious and half determined, and realized quickly that I wasn’t just learning how to code. I was learning how to build worlds from scratch. This GitHub is where I document that journey: the experiments, the wins, the back to the drawing board moments, and everything in between.
 
@@ -14,7 +14,7 @@ Quick snapshot:
 - Strengths include precision, curiosity, problem solving, and creativity
 - Currently exploring AWS, deeper JavaScript theory, and AI concepts
 
-## 🧰 Tech & Tools I Use
+##  🧰 Tech & Tools I Use
 
 - Languages include HTML, CSS, JavaScript, and Python.
 - Cloud experience includes AWS with S3, CloudFront, EC2 basics, and VPC basics.
@@ -22,13 +22,13 @@ Quick snapshot:
 
 I don’t chase tools for the sake of it. I pick the ones that help me build better, smarter, cleaner systems.
 
-## 🏗️ Projects That Shaped My Journey
+##   🎢  Projects That Shaped My Journey
 
 ### 🍽️ Embers & Co Static Restaurant Website
 
 This is where I learned that a simple website can solve real business problems. It is deployed on AWS S3 and built for clarity and speed.
 
-### 📚 TEFL Study Notes
+### 📚  TEFL Study Notes
 
 A small but growing archive of my learning, including teaching theories, classroom management insights, and language fundamentals.
 
